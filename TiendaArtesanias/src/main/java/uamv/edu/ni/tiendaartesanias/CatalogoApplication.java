@@ -21,6 +21,7 @@ public class CatalogoApplication extends Application {
         stage.setTitle("Tienda de Artesanías Nicaragüenses");
         stage.setScene(scene);
         stage.show();
+        
     }
 
 }
